@@ -1,0 +1,16 @@
+socket io degil web socket
+
+fork deil works
+
+clientte works (egg: requestAnimationFrame() )
+
+obje deil array || arraybuffer
+
+obje yazma class olustur
+
+cjs deil esm
+
+if selected 0 sa ve drawed !selected se soilder ciz
+yani secili olanin yanina ek olarak cizili olma durumu ekle ki
+selected cizili olmasa bile clear canvas yamana gerek kalmasin
+
