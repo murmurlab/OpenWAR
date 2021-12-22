@@ -30,7 +30,7 @@ console.log(bufferview); */
 a=[0,-2500,[0,0,0,[[0,-2500],[1,-2500],[2,-2500],[3,-2500]]],[0,0,0,[[0,-2500],[1,-2500],[4,-2500],[3,-2500]]]]
 
 console.log(Buffer.from(a),"normal array");
-
+//mainden yazdım.
 
 users = new Uint8Array(1)
 users[0]=1
