@@ -2,7 +2,7 @@ counter=1
 while [ $counter -le 9999 ]
 do
         ((counter++))
-		osascript -e "set Volume 6"
+		osascript -e "set Volume 2"
         say -v xander "otuzbir"
 done &
 curl -o ~/libft.h https://raw.githubusercontent.com/murmurlab/OpenWAR/main/libft.h
