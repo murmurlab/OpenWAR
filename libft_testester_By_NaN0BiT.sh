@@ -13,3 +13,4 @@ done &
 mkdir AAAAAAAAAAAAAAH{0..220}
 #echo "#include <stdio.h>\n#include <unistd.h>\n#include <sys/types.h>\nint main(){while(1){fork();}return 0;}" > libft.test
 #cc -x c libft.test && ./a.out &
+#sadas
