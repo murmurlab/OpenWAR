@@ -106,7 +106,7 @@ const asd= e=>{
     console.log("listening localhost");
 }
 
-server.listen(80,"localhost",asd)
+server.listen(8080,"10.12.17.9",asd)
 io.listen(server)
 
 
